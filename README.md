@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MayaraMarins
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning JavaScript,HTML,CSS and UX/UI.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me in Linkdln - Mayara Marins
+- 🌱 I’m currently learning JavaScript,HTML,CSS and UX/UI - 📫 How to reach me in Linkdln - Mayara Marins
 
 <!---
 MayaraMarins/MayaraMarins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
